@@ -14,7 +14,7 @@ import streamlit as st
 st.set_page_config(page_title="Instagram User Lookup", layout="wide")
 
 # Add Logo
-logo_url = "https://via.placeholder.com/150"  # Replace with the URL/path of your logo image
+logo_url = "Waffle.py"  # Replace with the URL/path of your logo image
 st.image(logo_url, width=150, use_container_width=False, caption="Instagram User Lookup Tool")
 
 # App Title
